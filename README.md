@@ -4,6 +4,6 @@
 - ๑ Como chegar até mim @caroline.soares.ribeiro@escola.pr.gov.br
 
 <!---
-CarolSoares8/CarolSoares8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Carol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
